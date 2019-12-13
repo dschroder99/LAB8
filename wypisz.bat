@@ -1,0 +1,1 @@
+for %%a in (C:\Users\Default\Desktop\*.*) do @echo %%a
